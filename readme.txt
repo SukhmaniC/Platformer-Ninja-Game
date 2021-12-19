@@ -1,0 +1,3 @@
+2D animated platformer game with beautiful music, stunning graphics and featuring five levels of entertainment. Completed in 2 weeks along with a final report for my grade 11 computer science final project. The version here is not the submission version but an older version so there may be a few bugs. To play simply download Turing, open the file named "menu" and hit run, good luck.
+
+All media used is non-copyright and royalty free, furthermore this is for educational purposes only. If you have any concerns about the media used please let me know.
